@@ -1,0 +1,53 @@
+_cgroom
+_music
+５節　１話本編
+５節　２話memory
+５節　２話日常 ３
+５節　３話ghostlove
+３節　小坂井綾　３話
+３節　小坂井綾　４話
+３節　小坂井綾　４話
+５節　５話ゴーストパレード
+４節　あずま夜　３話
+４節　あずま夜　３話
+４節　あずま夜　３話
+４節　あずま夜　４話
+４節　東雲希　２話
+４節　東雲希　３話
+４節　東雲希　３話
+４節　シロクマ　２話
+４節　シロクマ　２話
+４節　シロクマ　３話
+２節　２話
+デバッグ用テストです。
+dummy
+presto_inst
+_cgm_back02
+_config
+_memory_thum_non
+_memory_thum_non
+_memory_thum
+_memory_thum_non
+bg_kuro
+_cgm_back01
+_memory_bar01
+_cgm_bar01_snow
+_cgm_bar01_snow
+_cgm_bar01_snow
+_cgm_bar01_snow
+_cgm_bar02
+_memory_bar02_btn
+_memory_bar02_btn
+_memory_bar02_btn
+_memory_bar02_btn
+_memory_bar02_btn
+_memory_bar02_btn
+_memory_bar02_btn
+_memory_bar02_btn
+_memory_chara
+_memory_chara
+_memory_chara
+_memory_chara
+_memory_chara
+_memory_chara
+_memory_chara
