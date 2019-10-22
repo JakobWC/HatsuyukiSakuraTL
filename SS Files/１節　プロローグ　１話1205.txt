@@ -6,55 +6,55 @@ GossiperA
 GossiperB
 「Not that, It's something of a local legend. Recently people have been talking about it.」
 GossiperA
-「Ahh, that.... Recently I've been doing nothing but studying, so I haven't been paying attention. Rather, aren't you pretty composed? For you to have time to talk about such rumours.」
+「Ahh, that.... Recently I've been doing nothing but studying, so I haven't been paying attention. Rather, you sure are composed, since you have time to talk about such rumours.」
 GossiperB
-「いや私だって裕なんてないけどさ。予備校で噂好きの子に、講義中に無理矢理聞かされちゃって」
+「No, It's not like I'm composed or anything, It's just person who loves rumors at my prep school forced me to listen to them.」
 GossiperA
-「で、ゴーストが何って」
+「Then? What about the ghost?」
 GossiperB
-「出るらしいんだ。旧市街地のあたりで」
+「It seems that it's been appearing in the old city」
 GossiperA
-「あぁ、いかにもって感じだよね。でも、昔からあの辺、オカルトスポットだったじゃない。なんで今更噂になってるの」
+「Aah, that sounds about right doesn't it? But that's always been an occult spot, why is this rumor just circulating now?」
 GossiperB
-「最近、失踪事件が相次いでるらしいよ」
+「Recently, there seems to have been successive disappearances.」
 GossiperB
-「それでね、失踪した子が、ゴーストに連れ去られていくのを見たって人がたくさんいるのよ」
+「Not only that, but there have been a lot of people who say they had seen the ghost taking away the victims.」
 GossiperA
-「ふーん。失踪かぁ。本当に、ゴーストのせいなのかな」
+「mmm Disappearances huh? I wonder if it's really the ghost's fault.」
 GossiperA
-「この時期、皆たまってるからね」
+「I mean everyone's pretty stressed out right now after all.」
 GossiperA
-「Ｃ組の武田さんだったかな。受験のストレスから逃げるために、内緒でスキー行っちゃって、パニクった親が捜索願い出して、大騒ぎになったらしいよ」
+「Was it Class-C's Takeda-san I think? After getting stressed out over exams, he secretly ran off to go skiing, causing his parents to panic and call for a search, and it became a huge mess.」
 GossiperB
-「ゴーストよりも怖いのは、受験だね」
+「Rather than ghosts, I'm more afraid of exams.」
 GossiperA
-「あぁ、私も受験もなにもない世界へ、失踪しちゃいたいよ」
+「Aaah, I want to disappear off to a world without exams too.」
 GossiperB
-「めげるなめげるな」
+「No running away」
 GossiperA
-「そもそもゴーストって、どんな姿なわけ？　なんでゴーストって分かるの」
+「What did the ghost look like anyways? how did they know it was a ghost?」
 GossiperB
-「さぁ？　ゴーストっぽかったんでしょう」
+「Who knows? Probably because it was ghost-ey or something.」
 GossiperA
-「なにそれ。それってさぁ、あれだよ。噂が噂を呼んで、集団暗示みたいになって、柳もゴーストさんに見えてるって話じゃないの」
+「What's with that? Is it like, you know, rumors came out of rumors, and it sorta became like group suggestion or something, and it actually was just some willow tree that looked like a ghost?」
 GossiperB
-「まぁ、そんなところだろうけどね」
+「Well, I'm sure it's something like that yeah.」
 学園
-初雪
+Hatsuyuki
 「ん？」
 うつらうつらとしたまどろみが、携帯のバイブに遮られた。
 メールだ。
 メール
 『今日は寒いね。でもあなたを想うと心がぽかぽかする不思議。ねぇ今から会いたいな？』
 表示された差出人と文面に、俺は思いきり眉をひそめた。
-初雪
+Hatsuyuki
 （くそ、来栖かよ）
 いらだたしく携帯を閉じて、俺は辺りを見回す。
 今は……授業中のはずだが、黒板には『自習』と大きく書かれ、教壇に教師の姿はなく、レジュメが積まれているだけだ。
 授業時間も終わりにさしかかり、生徒達は、ほとんど休み時間のノリで談笑している。
 隣の席では、こちらに背を向けて、２人の女子生徒が声高にしゃべっている。
 この時期の会話というのは、受験勉強の鬱屈をここぞとばかりに晴らそうとするように、妙にキンキンと聞こえるのは気のせいだろうか。
-初雪
+Hatsuyuki
 「なぁ」
 ２人の会話に割ってはいる。
 女子生徒Ａ
@@ -62,56 +62,56 @@ GossiperB
 俺を見て、女子生徒は目を丸くした。若干、おびえが混じっている。
 女子生徒Ａ
 「なんですか」
-初雪
+Hatsuyuki
 「あのさ、ちょっと、頼みというか……いいか？」
 女子生徒Ａ
 「よ、よくないですっ」
-初雪
+Hatsuyuki
 「……は？」
 聞き返す俺に、女子はしまったと言わんばかりに口を覆い、ぶんぶんとその手を横に振る。
 女子生徒Ａ
 「あ、あ、ご、ごめんなさい。あの、私、何もしてませんから」
-初雪
+Hatsuyuki
 「…………」
 なんというか……。
 普段まったく接点のない俺に声をかけられて、明らかにびびっている。
 まずは、名前を確認して、警戒心を解かなければ。
-初雪
+Hatsuyuki
 「えと、誰だっけ？」
 女子生徒Ａ
 「……久美子です」
-初雪
+Hatsuyuki
 「くみこ？」
 女子生徒Ａ
 「久美子です」
 久美子と言われても。ただでさえクラスメートの名前を覚えてないのに、ファーストネームなんか把握してるわけがない。
-初雪
+Hatsuyuki
 「名字は？」
 久美子
 「それは、勘弁してください」
-初雪
+Hatsuyuki
 「なんで」
 久美子
 「家族にはっ。家族には手を出さないでくださいっ」
-初雪
+Hatsuyuki
 「誰にも手、出すつもりないって。俺はただ、頼みがあって」
 久美子
 「頼み……？」
-初雪
+Hatsuyuki
 「いや……。もし来栖が来たら、俺は今日は朝から見かけてないって、言っておいてくれるか？」
 久美子
 「朝から来てない……」
 久美子
 「それは、アリバイ作り？」
-初雪
+Hatsuyuki
 「そういうことになるのか？」
 久美子
 「今から、誰か、殺しに行くんですか？」
-初雪
+Hatsuyuki
 「…………あ゛？」
 久美子
 「すすす、すいません！　聞かなくていいことを聞きました！」
-初雪
+Hatsuyuki
 「いや、何言ってんだ」
 久美子
 「はいっ。はいっ」
