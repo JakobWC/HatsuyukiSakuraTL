@@ -1,43 +1,43 @@
 ゴーストタウa
-GossiperＢ
+GossiperB
 「Hey Hey, have you heard of the 'Ghost'?」
-GossiperＡ
+GossiperA
 「What？　Are you studying English?　Ghost would be... Like a specter?　Or maybe an apparition?」
-うわさＢ
-「違うわよ。都市伝説って言うのかな。最近、話題になってるんだよ」
-うわさＡ
-「あー。そっち方面……。最近、勉強ばっかりでとんと、疎くて。というかあんた余裕あるわ。そんなうわさ話おっかけてる暇があるんだ」
-うわさＢ
-「いや私だって余裕なんてないけどさ。予備校で噂好きの子に、講義中に無理矢理聞かされちゃって」
-うわさＡ
+GossiperB
+「Not that, It's something of a local legend. Recently people have been talking about it.」
+GossiperA
+「Ahh, that.... Recently I've been doing nothing but studying, so I haven't been paying attention. Rather, aren't you pretty composed? For you to have time to talk about such rumours.」
+GossiperB
+「いや私だって裕なんてないけどさ。予備校で噂好きの子に、講義中に無理矢理聞かされちゃって」
+GossiperA
 「で、ゴーストが何って」
-うわさＢ
+GossiperB
 「出るらしいんだ。旧市街地のあたりで」
-うわさＡ
+GossiperA
 「あぁ、いかにもって感じだよね。でも、昔からあの辺、オカルトスポットだったじゃない。なんで今更噂になってるの」
-うわさＢ
+GossiperB
 「最近、失踪事件が相次いでるらしいよ」
-うわさＢ
+GossiperB
 「それでね、失踪した子が、ゴーストに連れ去られていくのを見たって人がたくさんいるのよ」
-うわさＡ
+GossiperA
 「ふーん。失踪かぁ。本当に、ゴーストのせいなのかな」
-うわさＡ
+GossiperA
 「この時期、皆たまってるからね」
-うわさＡ
+GossiperA
 「Ｃ組の武田さんだったかな。受験のストレスから逃げるために、内緒でスキー行っちゃって、パニクった親が捜索願い出して、大騒ぎになったらしいよ」
-うわさＢ
+GossiperB
 「ゴーストよりも怖いのは、受験だね」
-うわさＡ
+GossiperA
 「あぁ、私も受験もなにもない世界へ、失踪しちゃいたいよ」
-うわさＢ
+GossiperB
 「めげるなめげるな」
-うわさＡ
+GossiperA
 「そもそもゴーストって、どんな姿なわけ？　なんでゴーストって分かるの」
-うわさＢ
+GossiperB
 「さぁ？　ゴーストっぽかったんでしょう」
-うわさＡ
+GossiperA
 「なにそれ。それってさぁ、あれだよ。噂が噂を呼んで、集団暗示みたいになって、柳もゴーストさんに見えてるって話じゃないの」
-うわさＢ
+GossiperB
 「まぁ、そんなところだろうけどね」
 学園
 初雪
